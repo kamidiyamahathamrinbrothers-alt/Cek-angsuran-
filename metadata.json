@@ -1,0 +1,6 @@
+{
+  "name": "Yamaha Thamrin Prabumulih - Promo Khusus & Cek Angsuran",
+  "description": "Aplikasi resmi Yamaha Thamrin Gunung Ibul Prabumulih untuk simulasi kredit dan cek angsuran motor dinamis dari database, bagikan detail ke WhatsApp, serta dashboard manajemen promo & data angsuran.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
